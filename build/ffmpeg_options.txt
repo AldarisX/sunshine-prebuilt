@@ -19,3 +19,5 @@
 --enable-libx264
 --enable-libx265
 --disable-debug
+
+# build test
